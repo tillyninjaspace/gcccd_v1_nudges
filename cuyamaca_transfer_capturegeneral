@@ -1,0 +1,28 @@
+<table style="font-size: 16px; border: none; border-collapse: collapse; empty-cells: show; max-width: 100%; color: rgb(65, 65, 65); font-family: sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(255, 255, 255); width: 417.844px;" id="isPasted">
+	<tbody>
+		<tr>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">Student Name</span></td>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">{FullName}</span></td>
+		</tr>
+		<tr>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">Math Placement<br></span></td>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">{<span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;" id="isPasted">MathTransfer</span>}</span></td>
+		</tr>
+		<tr>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">English Placement<br></span></td>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">{<span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;" id="isPasted">EnglishTransfer</span>}</span></td>
+		</tr>
+		<tr>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">Counseling Placement<br></span></td>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">{<span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;" id="isPasted">CounselingTransfer</span>}</span></td>
+		</tr>
+		<tr>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">GE Course<br></span></td>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">{<span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;" id="isPasted">GETransfer1</span>}</span></td>
+		</tr>
+		<tr>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">GE Course<br></span></td>
+			<td><span style="color: rgb(0, 0, 0); font-size: 14px; font-family: Arial, Helvetica, sans-serif;">{<span style="font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;" id="isPasted">GETransfer2</span>}</span></td>
+		</tr>
+	</tbody>
+</table>
