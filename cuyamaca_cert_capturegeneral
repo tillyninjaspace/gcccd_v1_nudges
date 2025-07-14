@@ -1,0 +1,66 @@
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);"><br></span></p>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">Math Placement</span>
+				<br>
+			</td>
+			<td style="width: 50.036%;">{MathCertificate}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">English Placement</span>
+				<br>
+			</td>
+			<td style="width: 50.036%;">{EnglishCertificate}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">Counseling Placement</span>
+				<br>
+			</td>
+			<td style="width: 50.036%;">{CounselingCertificate}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Student Name</span></td>
+			<td style="width: 50.036%;">{FullName}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Student ID</span></td>
+			<td style="width: 50.036%;">{PersonId}</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Certificate</span><span style="white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">&nbsp; &nbsp;&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);"><br></span></td>
+			<td style="width: 50.036%;">{CertType}</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Course 1</span><span style="white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);"><br></span></td>
+			<td style="width: 50.036%;">{CertCourse1}</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Course 2</span><span style="white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);"><br></span></td>
+			<td style="width: 50.036%;">{CertCourse2}</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Course 3</span><span style="white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);"><br></span></td>
+			<td style="width: 50.036%;">{CertCourse3}</td>
+		</tr>
+		<tr>
+			<td style="width: 49.7724%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);">Course 4</span><span style="white-space: pre; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);" id="isPasted">&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(0, 0, 0);"><br></span></td>
+			<td style="width: 50.036%;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="color: rgb(0, 0, 0);">{</span><span style="color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;" id="isPasted">CertCourse4</span><span style="color: rgb(0, 0, 0);">}<br></span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p id="isPasted"><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0);"><br></span></p>
+
+<p>
+	<br>
+</p>
